@@ -22,8 +22,8 @@ public class Background{
 		
 
 		//width/height of hit box
-		width = 1000;
-		height = 1000;
+		width = 10000;
+		height = 10000;
 		//used for placement on the JFrame
 		x = 0;
 		y = 0;
