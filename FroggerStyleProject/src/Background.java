@@ -18,12 +18,12 @@ public class Background{
 	double scaleHeight = 1; 		//change to scale image
 
 	public Background() {
-		forward = getImage("/imgs/"+"Backgrounda.png"); //load the image for Tree
+		forward = getImage("/imgs/"+"background.png"); //load the image for Tree
 		
 
 		//width/height of hit box
-		width = 100000;
-		height = 100000;
+		width = 100;
+		height = 100;
 		//used for placement on the JFrame
 		x = 0;
 		y = 0;
